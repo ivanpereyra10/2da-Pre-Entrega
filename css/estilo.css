@@ -194,6 +194,12 @@ h5{
 
 }
 
+* CAROUSEL  */
+
+.imgCarousel {
+    height: 150px;
+    object-fit: cover;
+}
 
 
 
